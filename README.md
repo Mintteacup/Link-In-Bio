@@ -1,4 +1,4 @@
-# Link-In-Bio
+# My-Links
 A website that displays all of my social media links
 
 
