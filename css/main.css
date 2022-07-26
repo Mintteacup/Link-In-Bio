@@ -15,8 +15,8 @@ header {
 }
 
 header > img {
-    width: 6em;
-    height: 6em;
+    width: 12em;
+    height: 12em;
     border-radius: 50%;
     border: 5px solid #7bf1a8;
     box-shadow: rgb(0 0 0 / 50%) 3px 3px 10px 0px;
@@ -24,7 +24,7 @@ header > img {
 
 header > h1 {
     display: inline-block;
-    font-size: 0.8em;
+    font-size: 1.5em;
     font-weight: bold;
     border-radius: 1em;
     background-color: #f1877b;
@@ -39,7 +39,7 @@ ul {
     list-style: none;
     margin: 0 auto;
     padding: 2em;
-    
+    max-width: 600px;
 }
 
 li {
@@ -48,6 +48,7 @@ li {
     padding: 1em;
     margin: 1em;
     box-shadow: rgb(0 0 0 / 50%) 3px 3px 10px 0px;
+    font-size: 1.2em;
 }
 
 img {
